@@ -1,0 +1,2 @@
+The file "Main" contains a prototype menu which leads to a cutscene in "Start".
+The main gaim is in the file "Viking game."
